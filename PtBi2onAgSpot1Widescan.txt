@@ -1,10 +1,3 @@
-; Description=PtBi2_on_Ag(111)
-; Operator=Douwe
-; Start energy=1100.000000
-; Stop energy=-10.000000
-; Number of channels=4238
-; Number of scans=3
-; Counting time=0.100000
 1100 3614
 1099.74 3600
 1099.48 3644
